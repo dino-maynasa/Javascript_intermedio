@@ -1,0 +1,81 @@
+
+
+**** MENU DEL NIVEL MID LEVEL ****
+
+00:00 - Introducción
+
+--------- CAPITULO 7 ---------
+
+Apertura del capitulo 7
+Objeto Window
+  ' hereda las propiedadedes del eventTarget
+  ' Open(),  carga un recurso en el contexto de un nuevo navegador o una que ya existe
+  ' Close(), cierra la ventana actual, o la ventana a la que se llamo.
+  ' Closed() indica si la ventana referenciada esta cerrada o no.
+  ' Stop() detiene la carga de recursos en el contexto del navegador
+  ' Alert() muestra un cuadro de alerta con el contenido especidicado y el boton de aceptar
+  ' Print() abre el cuadro de dialogo de imprimir para poder imprimir el documemnto actual
+  ' Prompt() abre un cuadro de dialogo con un mensaje que solicita un dato (string)
+  ' Confirm()  abre el cuadro de dialogo con un mensaje y dos botones de aceptar y cancelar
+  ' Screen() deveulve una referencia al objeto de pantalla asociado con las ventanas
+  . ScreenLeft: devuelve la distancia horizontal entre el borde izquierdo del navegador y el borde izquierdo de la pantalla
+  . ScreenTop: devuelve la distancia vertical entre el borde superior del navegador y el borde izquierdo de la pantalla 
+  . ScrollX() devuelve  el numero de pixeles que el documento se desplaza actualmente horizontalmente
+  ' ScrollY() devuelve el numero de pixeles que el documento se desplaza actualmente verticalmente
+  . Location() 
+
+  ' Historia de cofla 7() 
+
+-- CAPITULO 8 ---------
+ Apertura del capitulo 8
+ Pestaña Elements
+ - Pestaña Resources
+ - Pestaña Network
+ - Pestaña Timeline/Preformance
+-- CAPITULO 9 ---------
+ - Apertura del capitulo 9
+ - Eventos
+ - Handlers, Listeners y Objeto Event
+ - Event Flow (Bubbling y Capturing)
+ - StopPropagation
+ - Mouse Events
+ - Key Events
+ - Interface Events
+ - Timers 
+ - Historia de Cofla 9 problema A
+ - Historia de Cofla 9 problema B
+-- CAPITULO 10 ---------
+ - Apertura del capitulo 10
+ - Control de flujo y manejo de errores
+ - Sentencia Switch
+ - Excepciones 
+ - Try & Catch
+ - Finally
+ - Historia de Cofla 10
+-- CAPITULO 11 ---------
+ - Apertura del capitulo 11
+ - ¿Cuando algo se vuelve obsoleto?
+ - Metodos de cadenas obsoletos
+ - Detectar navegadores obsoletos
+ - Recomendaciones
+-- CAPITULO 12 ---------
+ - Apertura del capitulo 12
+ - Callbacks
+ - Promesas
+ - Await & Async
+ - Historia de Cofla 12
+-- CAPITULO 13 ---------
+ - Apertura del capitulo 13
+ - Peticiones HTTP
+ - Datos estructurados (JSON)
+ - AJAX
+ - XMLHTTPRequest, Peticiones, etc
+ - Diferencias entre GET y POST
+ - Fetch
+ - Librería Axios
+ - Fetch y Axios con Async & Await
+ - Historia de Cofla 13
+ CIERRE DEL NIVEL MID LEVEL -------
+ - Próximo nivel y felicitaciones
+ - Agradecimientos especiales
+ - Frase final y créditos
